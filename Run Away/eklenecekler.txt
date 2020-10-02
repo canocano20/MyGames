@@ -1,3 +1,8 @@
 1 - Başlar başlamaz ölme ihtimali
 2 - Yeni dummy spamlandığı zaman ölme ihtimali
-3 - Yeni dummy her zaman sağ üste yöneliyo
+3 - Yeni dummy her zaman sağ üste yöneliyor.
+4 - müzik ekle
+5 - Easy Medium Hard
+6 - particle ekle
+7 - End State yap
+8 - Start State düzenle
